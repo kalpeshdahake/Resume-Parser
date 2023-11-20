@@ -2,6 +2,12 @@
 
 ResumeParser is a Python script that facilitates the extraction of key information from resumes. It uses a combination of regular expressions, PDF text extraction, and natural language processing to parse resumes and retrieve details such as names, contact information, skills, education, and more.
 
+## Table of Contents
+- [Libraries](#libraries)
+- [Usage](#usage)
+- [Features](#features)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Libraries Used
 
