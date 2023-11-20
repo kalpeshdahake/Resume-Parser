@@ -98,7 +98,8 @@ If you'd like to contribute to ResumeAnalyzer, we welcome your contributions! Pl
    ```bash
    cd ResumeAnalyzer
 
-## License
+
+### License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
