@@ -29,6 +29,15 @@ The `re` library is a built-in Python module used for working with regular expre
 The `spacy.matcher` module is part of the spaCy library and is used to create match patterns for identifying specific entities in text. In ResumeAnalyzer, the Matcher is employed for extracting names based on defined patterns.
 
 ## Additional Notes
+## Installation
+## Usage
+## Features
+## Contributing
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+Copy and paste this content into your README.md file in your GitHub repository. Customize the licensing details in the [LICENSE](LICENSE) file according to your project's requirements.
 
 Make sure to install the required libraries by running:
 
@@ -36,18 +45,12 @@ Make sure to install the required libraries by running:
 pip install -r requirements.txt
 
 
-## Installation
+Installation
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/ResumeAnalyzer.git
 
-## Installation
-
-To install the required dependencies, run the following command in your terminal:
-
-```bash
-pip install -r requirements.txt
 
 ## Usage
 
@@ -99,7 +102,7 @@ If you'd like to contribute to ResumeAnalyzer, we welcome your contributions! Pl
    cd ResumeAnalyzer
 
 
-### License
+## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
