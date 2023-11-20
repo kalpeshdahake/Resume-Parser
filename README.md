@@ -102,7 +102,7 @@ If you'd like to contribute to ResumeAnalyzer, we welcome your contributions! Pl
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-Feel free to use this content directly in your README.md file, adjusting details according to your specific project.
+Copy and paste this content into your README.md file in your GitHub repository. Customize the licensing details in the [LICENSE](LICENSE) file according to your project's requirements.
 
 
 
