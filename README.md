@@ -2,13 +2,6 @@
 
 ResumeParser is a Python script that facilitates the extraction of key information from resumes. It uses a combination of regular expressions, PDF text extraction, and natural language processing to parse resumes and retrieve details such as names, contact information, skills, education, and more.
 
-## Table of Contents
-- [Libraries](#libraries)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Libraries Used
 
@@ -28,21 +21,16 @@ The `re` library is a built-in Python module used for working with regular expre
 
 The `spacy.matcher` module is part of the spaCy library and is used to create match patterns for identifying specific entities in text. In ResumeAnalyzer, the Matcher is employed for extracting names based on defined patterns.
 
-## Additional Notes
-## Installation
-## Usage
 ## Features
-## Contributing
+
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 Copy and paste this content into your README.md file in your GitHub repository. Customize the licensing details in the [LICENSE](LICENSE) file according to your project's requirements.
 
-Make sure to install the required libraries by running:
 
-```bash
-pip install -r requirements.txt
 
 
 Installation
